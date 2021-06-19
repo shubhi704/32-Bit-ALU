@@ -109,10 +109,9 @@ opcode | Operation
 <!--EndFragment-->
 
 # ALU Flags:
-
-Sign_flag   
-Carry_flag 
-zero_flag
+Sign_flag
+Carry_flag
+Zero_flag
 Parity_flag
 
 
